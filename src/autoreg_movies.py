@@ -242,7 +242,6 @@ except ImportError:
 
 
 def ints_to_labels(graphs):
-    """Convert (h,r,t) index triples → string-label triples."""
     result = []
     skipped = 0
     for g in graphs:
@@ -259,7 +258,6 @@ def ints_to_labels(graphs):
 
 @torch.no_grad()
 def decode_latent(model, z, beam=beam_width):
-    """Beam-search decode a batch of latent vectors directly."""
     z      = z.to(next(model.parameters()).device, dtype=torch.float32)
     B      = z.size(0)
     BOS    = torch.full((B, 1), SPECIAL["BOS"], dtype=torch.long, device=z.device)
@@ -283,7 +281,6 @@ def decode_latent(model, z, beam=beam_width):
     return [seq_to_triples(row) for row in best]
 
 def run_semantic_evaluation(predicted_graphs_lbl, title):
-    """Run semantic evaluation with Wikidata-specific rule checker."""
     gt_graphs_lbl = post_process_data(train_g, i2e, i2r)
     verifier      = WDMoviesVerifier()
     evaluator     = SemanticEvaluator(
@@ -350,7 +347,6 @@ run_semantic_evaluation(
 
 
 def canonical_graph_string(graph):
-    """Convert (h, r, t) triples to a sorted string representation."""
     return str(sorted(graph))
 
 @torch.no_grad()
@@ -379,7 +375,6 @@ _ = count_unique_graphs(model, num_samples=1000, beam=1)
 
 @torch.no_grad()
 def bits_per_sequence(model, seq, z, pad_id=0):
-    """Compute -log₂ p(seq | z) using autoregressive decoding."""
     seq = seq.unsqueeze(0).to(z.device)  # shape: (1, L)
     total = 0.0
     for t in range(1, seq.size(1)):  # skip BOS
@@ -393,12 +388,6 @@ def bits_per_sequence(model, seq, z, pad_id=0):
 
 @torch.no_grad()
 def posterior_bits_full(model, dataset, device, pad_id=0):
-    """
-    Compute total compression bits for each graph:
-    - AR bits: -log₂ p(seq | z)
-    - KL bits: KL[q(z|x) || p(z)] in bits
-    - z, mu, logv: returned for latent analysis
-    """
     records = []
     loader = DataLoader(dataset, batch_size=1, shuffle=False)
 
