@@ -1,6 +1,7 @@
 # AutoKG – Generative AI Architectures for Structured Graphs  
 
 [Read the full paper here](https://drive.google.com/file/d/12t6qI0N9uApzK_rlty7tGLg7xlaIHl8w/view?usp=share_link)
+
 <img src="figures/autoreg.png" alt="AutoKG High‑level Architecture" width="1080"/>
 
 AutoKG is a **variational‑autoregressive model** for **multi‑relational knowledge‑graph (KG) generation**.  
