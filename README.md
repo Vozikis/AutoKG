@@ -160,7 +160,27 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 <img src="figures/compression.png" alt="Compression cost for different models and datasets. Bolded entries highlight the performance of the best model" width="780"/>  
 
 
+
+
+
+
+
+
+
+
+
+
 <img src="figures/results_latent.png" alt="Sampling $P(E)$ and $P(S \mid E)$ across datasets and models. Bolded entries highlight the performance of the best model." width="780"/>  
+
+
+
+
+
+
+
+
+
+
 
 
 <img src="figures/results_test.png" alt="Sampling $P(S \mid E)$ only across datasets and models. Bolded entries highlight the performance of the best model." width="780"/>  
