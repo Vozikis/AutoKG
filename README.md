@@ -170,7 +170,7 @@ entries highlight the performance of the best model" width="780"/>
 | **Diversity Ratio** | <img src="figures/diversity_constraint.png" alt="Diversity Ratio per Step" width="370"/> |
 | **Novel Semantics** | <img src="figures/novel_constraing.png" alt="Novel Semantics per Step" width="370"/> |
 
-→ Diversity decreases as conditioning increases (expected), while **novel semantics stays ≈ 100 %**.
+→ Diversity decreases as conditioning increases (expected).
 
 ### 3. Compression–Validity trade‑off (synthetic datasets)
 
