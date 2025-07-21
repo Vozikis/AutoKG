@@ -73,6 +73,7 @@ The repository contains scripts for training and evaluating models on five Intel
 │   ├── autoreg_movies.py       # AutoKG on WD‑MOVIES
 │   └── autoreg_articles.py     # AutoKG on WD‑ARTICLES  
 ├── figures
+├── logs
 └── …
 ```
 
@@ -97,6 +98,8 @@ python src/autoreg_articles.py     # WD‑ARTICLES
 
 Each script  
 *loads* the dataset, performs training, generates graphs and evaluates them.
+
+You can find the logs of the training process in the `logs` folder.
 
 ---
 
