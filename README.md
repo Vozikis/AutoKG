@@ -226,3 +226,5 @@ All from **[IntelliGraphs](https://github.com/thiviyanT/IntelliGraphs)**.
 | wd‑articles   | real‑world | 60 932 | 6 | ≤ 212 |
 
 ---
+
+[Read the full MSc thesis here](https://drive.google.com/file/d/12t6qI0N9uApzK_rlty7tGLg7xlaIHl8w/view?usp=share_link)
