@@ -16,7 +16,7 @@ We also experimented with
 
 ---
 
-## 🔍 Table of Contents
+##  Table of Contents
 1. [Overview](#overview)
 2. [Project Structure](#project-structure)
 3. [Quick Start](#quick-start)
@@ -26,7 +26,7 @@ We also experimented with
 
 ---
 
-## 📌 Overview <a name="overview"/></a>
+##  Overview <a name="overview"/></a>
 
 Generative models have achieved remarkable results in domains like image, text, and video synthesis. However, they continue to struggle with generating coherent symbolic structures such as knowledge graphs (KGs). AutoKG addresses this gap through a novel variational-autoregressive architecture designed to model the full joint distribution over triples. It transforms knowledge graphs into token sequences, enabling latent compression and autoregressive decoding to generate structurally valid, novel, and diverse multirelational graphs. 
 
@@ -54,7 +54,7 @@ All models are evaluated on five datasets from **IntelliGraphs** (`syn‑paths`,
 
 ---
 
-## 📁 Project Structure <a name="project-structure"/></a>
+## Project Structure <a name="project-structure"/></a>
 
 The repository contains scripts for training and evaluating models on five IntelliGraphs datasets, which include both synthetic (rule-based) and real-world graphs with varying complexity and structure.
 
@@ -73,7 +73,7 @@ The repository contains scripts for training and evaluating models on five Intel
 
 ---
 
-## 🚀 Quick Start <a name="quick-start"/></a>
+## Quick Start <a name="quick-start"/></a>
 
 ```bash
 # 1. install core requirements
@@ -95,11 +95,11 @@ Each script
 
 ---
 
-## 🧠 Methodology <a name="methodology"/></a>
+## Methodology <a name="methodology"/></a>
 
 AutoKG is the first architecture to combine variational inference with autoregressive decoding for multirelational graph generation. Each triple element (subject, predicate, object) is tokenized into a shared vocabulary. The encoder compresses the tokenized graph into a latent vector z, and the decoder generates triple elements sequentially, conditioned on previous tokens and z. This setup allows the model to learn and control long-range dependencies across triples, producing semantically consistent and valid graphs.
 
-### 🏗  AutoKG in one picture  
+###  AutoKG in one picture  
 
 <img src="figures/autoreg.png" alt="AutoKG in one picture" width="720"/>
 
@@ -111,37 +111,36 @@ It learns to model the **joint probability** over full graphs—not isolated tri
 
 ---
 
-### 1. 🏗️ Architecture Overview
+###  Architecture Overview
 
 - **Encoder**: Transforms input KG (triples) into a latent vector `z ∈ ℝᵈ` using a Transformer encoder with type-specific token embeddings.
 - **Latent Bottleneck**: A variational bottleneck regularized by KL divergence, encouraging compressed global representations.
 - **Decoder**: Autoregressively generates tokens `xₜ ∈ {s, p, o}`, conditioned on past tokens and `z` using masked self-attention and cross-attention.
 - **Tokenization**: Graphs are serialized into sequences like: [Amsterdam, train_to, Utrecht]
-
 - **Special tokens**: `PAD = 0`, `BOS = 1`, `EOS = 2`  
 - **Vocabulary size**: `|V| = 3 + |E| + |R|`  
 - **Padding** is used for fixed-length batching.
 
 ---
 
-### 3. 🧠 Encoder
+### Encoder
 
 - **Transformer encoder layers** capture inter-triple dependencies.
 - Latent vector `z` is sampled via reparameterization.
 
-### 4. ✍️ Decoder
+###  Decoder
 
 - **Masked self-attention** over past tokens
 - **Cross-attention** on the latent vector `z`
 - Predicts the next token.
 
-### 5. 🎯 Training Objective
+###  Training Objective
 
 AutoKG maximizes the **Evidence Lower Bound (ELBO)**.
 
 
 
-### ⚙️  Conditioning Mechanism  
+### Conditioning Mechanism  
 
 > Give AutoKG a *partial* triple sequence — it will **complete** the graph while respecting constraints.
 
@@ -149,7 +148,7 @@ AutoKG maximizes the **Evidence Lower Bound (ELBO)**.
 
 ---
 
-## 📊 Evaluation & Results <a name="evaluation--results"/></a>
+## Evaluation & Results <a name="evaluation--results"/></a>
 
 Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-the-art validity and novelty, with near-perfect scores on all datasets. Unlike baselines, AutoKG retains diversity across samples and scales well to complex real-world graphs like wd-articles. Compression analysis confirms that AutoKG learns highly efficient latent representations, outperforming both VAEs and latent diffusion models.
 
@@ -211,7 +210,7 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 
 ---
 
-## 🗂  Datasets <a name="datasets"/></a>
+## Datasets <a name="datasets"/></a>
 
 All from **[IntelliGraphs](https://github.com/thiviyanT/IntelliGraphs)**.
 
