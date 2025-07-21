@@ -419,12 +419,6 @@ def bits_per_sequence(model, seq, z, pad_id=0):
 
 @torch.no_grad()
 def posterior_bits_full(model, dataset, device, pad_id=0):
-    """
-    Compute total compression bits for each graph:
-    - AR bits: -log₂ p(seq | z)
-    - KL bits: KL[q(z|x) || p(z)] in bits
-    - z, mu, logv: returned for latent analysis
-    """
     records = []
     loader = DataLoader(dataset, batch_size=1, shuffle=False)
 
