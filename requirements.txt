@@ -12,14 +12,5 @@ graphviz==0.21
 # Training utilities
 tqdm==4.67.1
 
-# Visualization
-matplotlib==3.9.4
-seaborn==0.13.2
-
 # Logging (optional)
 wandb==0.21.0
-
-# Optional utilities
-pyyaml==5.4.1
-filelock==3.7.1
-requests==2.25.1
