@@ -1,0 +1,25 @@
+# Core ML and DL dependencies
+torch==2.7.1
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.3.1
+
+# IntelliGraphs (benchmark and semantic eval)
+intelligraphs==1.0.18
+networkx==3.2.1
+graphviz==0.21
+
+# Training utilities
+tqdm==4.67.1
+
+# Visualization
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Logging (optional)
+wandb==0.21.0
+
+# Optional utilities
+pyyaml==5.4.1
+filelock==3.7.1
+requests==2.25.1
