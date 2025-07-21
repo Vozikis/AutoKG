@@ -1,0 +1,687 @@
+Epoch   1/300 | Total   0.8751 | CE   0.7911 | KL   0.8407
+Epoch   2/300 | Total   0.4925 | CE   0.3520 | KL   1.3638
+Epoch   3/300 | Total   0.4102 | CE   0.2458 | KL   1.5509
+Epoch   4/300 | Total   0.3842 | CE   0.2109 | KL   1.5897
+Epoch   5/300 | Total   0.3727 | CE   0.1932 | KL   1.6030
+Epoch   6/300 | Total   0.3653 | CE   0.1813 | KL   1.6006
+Epoch   7/300 | Total   0.3606 | CE   0.1728 | KL   1.5914
+Epoch   8/300 | Total   0.3563 | CE   0.1651 | KL   1.5798
+Epoch   9/300 | Total   0.3545 | CE   0.1597 | KL   1.5713
+Epoch  10/300 | Total   0.3530 | CE   0.1544 | KL   1.5636
+Epoch  11/300 | Total   0.3519 | CE   0.1494 | KL   1.5575
+Epoch  12/300 | Total   0.3504 | CE   0.1447 | KL   1.5467
+Epoch  13/300 | Total   0.3490 | CE   0.1393 | KL   1.5416
+Epoch  14/300 | Total   0.3479 | CE   0.1346 | KL   1.5348
+Epoch  15/300 | Total   0.3461 | CE   0.1295 | KL   1.5249
+Epoch  16/300 | Total   0.3469 | CE   0.1264 | KL   1.5208
+Epoch  17/300 | Total   0.3475 | CE   0.1241 | KL   1.5099
+Epoch  18/300 | Total   0.3491 | CE   0.1226 | KL   1.4999
+Epoch  19/300 | Total   0.3503 | CE   0.1204 | KL   1.4928
+Epoch  20/300 | Total   0.3520 | CE   0.1188 | KL   1.4850
+Epoch  21/300 | Total   0.3551 | CE   0.1190 | KL   1.4757
+Epoch  22/300 | Total   0.3571 | CE   0.1179 | KL   1.4673
+Epoch  23/300 | Total   0.3591 | CE   0.1166 | KL   1.4605
+Epoch  24/300 | Total   0.3617 | CE   0.1168 | KL   1.4490
+Epoch  25/300 | Total   0.3640 | CE   0.1157 | KL   1.4438
+Epoch  26/300 | Total   0.3666 | CE   0.1154 | KL   1.4356
+Epoch  27/300 | Total   0.3696 | CE   0.1155 | KL   1.4276
+Epoch  28/300 | Total   0.3722 | CE   0.1150 | KL   1.4205
+Epoch  29/300 | Total   0.3759 | CE   0.1156 | KL   1.4148
+Epoch  30/300 | Total   0.3787 | CE   0.1153 | KL   1.4085
+Epoch  31/300 | Total   0.3806 | CE   0.1147 | KL   1.3997
+Epoch  32/300 | Total   0.3838 | CE   0.1152 | KL   1.3914
+Epoch  33/300 | Total   0.3880 | CE   0.1160 | KL   1.3878
+Epoch  34/300 | Total   0.3902 | CE   0.1157 | KL   1.3796
+Epoch  35/300 | Total   0.3932 | CE   0.1158 | KL   1.3733
+Epoch  36/300 | Total   0.3971 | CE   0.1170 | KL   1.3662
+Epoch  37/300 | Total   0.3994 | CE   0.1166 | KL   1.3597
+Epoch  38/300 | Total   0.4024 | CE   0.1166 | KL   1.3547
+Epoch  39/300 | Total   0.4059 | CE   0.1169 | KL   1.3502
+Epoch  40/300 | Total   0.4088 | CE   0.1176 | KL   1.3416
+Epoch  41/300 | Total   0.4124 | CE   0.1183 | KL   1.3368
+Epoch  42/300 | Total   0.4151 | CE   0.1186 | KL   1.3296
+Epoch  43/300 | Total   0.4184 | CE   0.1191 | KL   1.3244
+Epoch  44/300 | Total   0.4215 | CE   0.1199 | KL   1.3169
+Epoch  45/300 | Total   0.4252 | CE   0.1203 | KL   1.3146
+Epoch  46/300 | Total   0.4284 | CE   0.1211 | KL   1.3078
+Epoch  47/300 | Total   0.4320 | CE   0.1219 | KL   1.3030
+Epoch  48/300 | Total   0.4347 | CE   0.1221 | KL   1.2971
+Epoch  49/300 | Total   0.4386 | CE   0.1230 | KL   1.2933
+Epoch  50/300 | Total   0.4409 | CE   0.1233 | KL   1.2856
+Epoch  51/300 | Total   0.4440 | CE   0.1244 | KL   1.2787
+Epoch  52/300 | Total   0.4477 | CE   0.1247 | KL   1.2766
+Epoch  53/300 | Total   0.4510 | CE   0.1254 | KL   1.2720
+Epoch  54/300 | Total   0.4540 | CE   0.1260 | KL   1.2663
+Epoch  55/300 | Total   0.4577 | CE   0.1272 | KL   1.2615
+Epoch  56/300 | Total   0.4605 | CE   0.1277 | KL   1.2559
+Epoch  57/300 | Total   0.4635 | CE   0.1280 | KL   1.2517
+Epoch  58/300 | Total   0.4665 | CE   0.1288 | KL   1.2461
+Epoch  59/300 | Total   0.4698 | CE   0.1294 | KL   1.2421
+Epoch  60/300 | Total   0.4729 | CE   0.1304 | KL   1.2363
+Epoch  61/300 | Total   0.4763 | CE   0.1312 | KL   1.2324
+Epoch  62/300 | Total   0.4788 | CE   0.1316 | KL   1.2269
+Epoch  63/300 | Total   0.4826 | CE   0.1326 | KL   1.2240
+Epoch  64/300 | Total   0.4857 | CE   0.1338 | KL   1.2177
+Epoch  65/300 | Total   0.4892 | CE   0.1343 | KL   1.2152
+Epoch  66/300 | Total   0.4916 | CE   0.1345 | KL   1.2104
+Epoch  67/300 | Total   0.4951 | CE   0.1356 | KL   1.2061
+Epoch  68/300 | Total   0.4981 | CE   0.1364 | KL   1.2017
+Epoch  69/300 | Total   0.5016 | CE   0.1379 | KL   1.1962
+Epoch  70/300 | Total   0.5051 | CE   0.1392 | KL   1.1921
+Epoch  71/300 | Total   0.5076 | CE   0.1394 | KL   1.1879
+Epoch  72/300 | Total   0.5106 | CE   0.1402 | KL   1.1834
+Epoch  73/300 | Total   0.5131 | CE   0.1404 | KL   1.1793
+Epoch  74/300 | Total   0.5178 | CE   0.1429 | KL   1.1753
+Epoch  75/300 | Total   0.5193 | CE   0.1423 | KL   1.1709
+Epoch  76/300 | Total   0.5228 | CE   0.1437 | KL   1.1665
+Epoch  77/300 | Total   0.5261 | CE   0.1448 | KL   1.1626
+Epoch  78/300 | Total   0.5285 | CE   0.1449 | KL   1.1590
+Epoch  79/300 | Total   0.5321 | CE   0.1464 | KL   1.1548
+Epoch  80/300 | Total   0.5348 | CE   0.1469 | KL   1.1512
+Epoch  81/300 | Total   0.5378 | CE   0.1480 | KL   1.1463
+Epoch  82/300 | Total   0.5412 | CE   0.1492 | KL   1.1429
+Epoch  83/300 | Total   0.5439 | CE   0.1498 | KL   1.1392
+Epoch  84/300 | Total   0.5464 | CE   0.1507 | KL   1.1338
+Epoch  85/300 | Total   0.5493 | CE   0.1517 | KL   1.1296
+Epoch  86/300 | Total   0.5533 | CE   0.1533 | KL   1.1268
+Epoch  87/300 | Total   0.5559 | CE   0.1540 | KL   1.1224
+Epoch  88/300 | Total   0.5596 | CE   0.1555 | KL   1.1196
+Epoch  89/300 | Total   0.5618 | CE   0.1557 | KL   1.1156
+Epoch  90/300 | Total   0.5648 | CE   0.1567 | KL   1.1120
+Epoch  91/300 | Total   0.5676 | CE   0.1578 | KL   1.1075
+Epoch  92/300 | Total   0.5709 | CE   0.1593 | KL   1.1035
+Epoch  93/300 | Total   0.5738 | CE   0.1601 | KL   1.1004
+Epoch  94/300 | Total   0.5769 | CE   0.1613 | KL   1.0966
+Epoch  95/300 | Total   0.5791 | CE   0.1622 | KL   1.0912
+Epoch  96/300 | Total   0.5814 | CE   0.1627 | KL   1.0875
+Epoch  97/300 | Total   0.5851 | CE   0.1636 | KL   1.0864
+Epoch  98/300 | Total   0.5878 | CE   0.1653 | KL   1.0804
+Epoch  99/300 | Total   0.5914 | CE   0.1664 | KL   1.0787
+Epoch 100/300 | Total   0.5941 | CE   0.1677 | KL   1.0741
+Epoch 101/300 | Total   0.5959 | CE   0.1687 | KL   1.0679
+Epoch 102/300 | Total   0.5994 | CE   0.1697 | KL   1.0663
+Epoch 103/300 | Total   0.6016 | CE   0.1707 | KL   1.0614
+Epoch 104/300 | Total   0.6047 | CE   0.1721 | KL   1.0577
+Epoch 105/300 | Total   0.6077 | CE   0.1730 | KL   1.0550
+Epoch 106/300 | Total   0.6108 | CE   0.1744 | KL   1.0516
+Epoch 107/300 | Total   0.6134 | CE   0.1757 | KL   1.0473
+Epoch 108/300 | Total   0.6170 | CE   0.1770 | KL   1.0451
+Epoch 109/300 | Total   0.6194 | CE   0.1778 | KL   1.0414
+Epoch 110/300 | Total   0.6213 | CE   0.1790 | KL   1.0360
+Epoch 111/300 | Total   0.6243 | CE   0.1803 | KL   1.0325
+Epoch 112/300 | Total   0.6274 | CE   0.1816 | KL   1.0296
+Epoch 113/300 | Total   0.6302 | CE   0.1826 | KL   1.0267
+Epoch 114/300 | Total   0.6327 | CE   0.1838 | KL   1.0225
+Epoch 115/300 | Total   0.6357 | CE   0.1855 | KL   1.0185
+Epoch 116/300 | Total   0.6383 | CE   0.1861 | KL   1.0163
+Epoch 117/300 | Total   0.6406 | CE   0.1880 | KL   1.0102
+Epoch 118/300 | Total   0.6436 | CE   0.1889 | KL   1.0081
+Epoch 119/300 | Total   0.6465 | CE   0.1900 | KL   1.0054
+Epoch 120/300 | Total   0.6497 | CE   0.1918 | KL   1.0019
+Epoch 121/300 | Total   0.6521 | CE   0.1929 | KL   0.9982
+Epoch 122/300 | Total   0.6545 | CE   0.1947 | KL   0.9930
+Epoch 123/300 | Total   0.6571 | CE   0.1957 | KL   0.9902
+Epoch 124/300 | Total   0.6599 | CE   0.1974 | KL   0.9861
+Epoch 125/300 | Total   0.6632 | CE   0.1993 | KL   0.9829
+Epoch 126/300 | Total   0.6658 | CE   0.2009 | KL   0.9786
+Epoch 127/300 | Total   0.6679 | CE   0.2017 | KL   0.9754
+Epoch 128/300 | Total   0.6705 | CE   0.2032 | KL   0.9713
+Epoch 129/300 | Total   0.6728 | CE   0.2036 | KL   0.9695
+Epoch 130/300 | Total   0.6749 | CE   0.2051 | KL   0.9647
+Epoch 131/300 | Total   0.6780 | CE   0.2065 | KL   0.9623
+Epoch 132/300 | Total   0.6806 | CE   0.2083 | KL   0.9579
+Epoch 133/300 | Total   0.6832 | CE   0.2103 | KL   0.9535
+Epoch 134/300 | Total   0.6856 | CE   0.2121 | KL   0.9489
+Epoch 135/300 | Total   0.6882 | CE   0.2132 | KL   0.9462
+Epoch 136/300 | Total   0.6911 | CE   0.2148 | KL   0.9430
+Epoch 137/300 | Total   0.6936 | CE   0.2163 | KL   0.9396
+Epoch 138/300 | Total   0.6959 | CE   0.2184 | KL   0.9345
+Epoch 139/300 | Total   0.6984 | CE   0.2198 | KL   0.9310
+Epoch 140/300 | Total   0.7013 | CE   0.2218 | KL   0.9275
+Epoch 141/300 | Total   0.7031 | CE   0.2230 | KL   0.9233
+Epoch 142/300 | Total   0.7057 | CE   0.2245 | KL   0.9200
+Epoch 143/300 | Total   0.7086 | CE   0.2263 | KL   0.9168
+Epoch 144/300 | Total   0.7105 | CE   0.2274 | KL   0.9132
+Epoch 145/300 | Total   0.7132 | CE   0.2301 | KL   0.9081
+Epoch 146/300 | Total   0.7153 | CE   0.2312 | KL   0.9047
+Epoch 147/300 | Total   0.7184 | CE   0.2340 | KL   0.9003
+Epoch 148/300 | Total   0.7206 | CE   0.2351 | KL   0.8975
+Epoch 149/300 | Total   0.7225 | CE   0.2365 | KL   0.8933
+Epoch 150/300 | Total   0.7255 | CE   0.2393 | KL   0.8888
+Epoch 151/300 | Total   0.7280 | CE   0.2411 | KL   0.8852
+Epoch 152/300 | Total   0.7296 | CE   0.2427 | KL   0.8804
+Epoch 153/300 | Total   0.7328 | CE   0.2447 | KL   0.8779
+Epoch 154/300 | Total   0.7344 | CE   0.2465 | KL   0.8729
+Epoch 155/300 | Total   0.7374 | CE   0.2481 | KL   0.8707
+Epoch 156/300 | Total   0.7391 | CE   0.2499 | KL   0.8658
+Epoch 157/300 | Total   0.7421 | CE   0.2526 | KL   0.8618
+Epoch 158/300 | Total   0.7442 | CE   0.2544 | KL   0.8578
+Epoch 159/300 | Total   0.7462 | CE   0.2564 | KL   0.8534
+Epoch 160/300 | Total   0.7478 | CE   0.2580 | KL   0.8490
+Epoch 161/300 | Total   0.7514 | CE   0.2606 | KL   0.8462
+Epoch 162/300 | Total   0.7533 | CE   0.2623 | KL   0.8422
+Epoch 163/300 | Total   0.7553 | CE   0.2647 | KL   0.8372
+Epoch 164/300 | Total   0.7572 | CE   0.2672 | KL   0.8319
+Epoch 165/300 | Total   0.7591 | CE   0.2683 | KL   0.8290
+Epoch 166/300 | Total   0.7629 | CE   0.2716 | KL   0.8257
+Epoch 167/300 | Total   0.7648 | CE   0.2732 | KL   0.8220
+Epoch 168/300 | Total   0.7665 | CE   0.2757 | KL   0.8166
+Epoch 169/300 | Total   0.7683 | CE   0.2782 | KL   0.8115
+Epoch 170/300 | Total   0.7710 | CE   0.2809 | KL   0.8074
+Epoch 171/300 | Total   0.7724 | CE   0.2826 | KL   0.8030
+Epoch 172/300 | Total   0.7752 | CE   0.2849 | KL   0.7999
+Epoch 173/300 | Total   0.7773 | CE   0.2879 | KL   0.7943
+Epoch 174/300 | Total   0.7792 | CE   0.2898 | KL   0.7906
+Epoch 175/300 | Total   0.7816 | CE   0.2927 | KL   0.7860
+Epoch 176/300 | Total   0.7837 | CE   0.2955 | KL   0.7812
+Epoch 177/300 | Total   0.7851 | CE   0.2981 | KL   0.7754
+Epoch 178/300 | Total   0.7874 | CE   0.3001 | KL   0.7721
+Epoch 179/300 | Total   0.7901 | CE   0.3032 | KL   0.7680
+Epoch 180/300 | Total   0.7922 | CE   0.3069 | KL   0.7619
+Epoch 181/300 | Total   0.7938 | CE   0.3092 | KL   0.7572
+Epoch 182/300 | Total   0.7964 | CE   0.3117 | KL   0.7538
+Epoch 183/300 | Total   0.7981 | CE   0.3145 | KL   0.7486
+Epoch 184/300 | Total   0.8003 | CE   0.3157 | KL   0.7467
+Epoch 185/300 | Total   0.8020 | CE   0.3206 | KL   0.7384
+Epoch 186/300 | Total   0.8040 | CE   0.3229 | KL   0.7345
+Epoch 187/300 | Total   0.8049 | CE   0.3258 | KL   0.7282
+Epoch 188/300 | Total   0.8076 | CE   0.3295 | KL   0.7233
+Epoch 189/300 | Total   0.8096 | CE   0.3324 | KL   0.7187
+Epoch 190/300 | Total   0.8118 | CE   0.3364 | KL   0.7128
+Epoch 191/300 | Total   0.8129 | CE   0.3390 | KL   0.7072
+Epoch 192/300 | Total   0.8154 | CE   0.3423 | KL   0.7029
+Epoch 193/300 | Total   0.8163 | CE   0.3452 | KL   0.6968
+Epoch 194/300 | Total   0.8187 | CE   0.3487 | KL   0.6921
+Epoch 195/300 | Total   0.8205 | CE   0.3518 | KL   0.6873
+Epoch 196/300 | Total   0.8221 | CE   0.3550 | KL   0.6820
+Epoch 197/300 | Total   0.8238 | CE   0.3586 | KL   0.6762
+Epoch 198/300 | Total   0.8261 | CE   0.3636 | KL   0.6693
+Epoch 199/300 | Total   0.8279 | CE   0.3668 | KL   0.6643
+Epoch 200/300 | Total   0.8292 | CE   0.3692 | KL   0.6599
+Epoch 201/300 | Total   0.8306 | CE   0.3738 | KL   0.6526
+Epoch 202/300 | Total   0.8321 | CE   0.3788 | KL   0.6447
+Epoch 203/300 | Total   0.8348 | CE   0.3837 | KL   0.6390
+Epoch 204/300 | Total   0.8358 | CE   0.3860 | KL   0.6344
+Epoch 205/300 | Total   0.8379 | CE   0.3911 | KL   0.6276
+Epoch 206/300 | Total   0.8394 | CE   0.3948 | KL   0.6218
+Epoch 207/300 | Total   0.8404 | CE   0.3991 | KL   0.6146
+Epoch 208/300 | Total   0.8423 | CE   0.4048 | KL   0.6067
+Epoch 209/300 | Total   0.8440 | CE   0.4094 | KL   0.6002
+Epoch 210/300 | Total   0.8456 | CE   0.4139 | KL   0.5937
+Epoch 211/300 | Total   0.8470 | CE   0.4193 | KL   0.5859
+Epoch 212/300 | Total   0.8476 | CE   0.4242 | KL   0.5775
+Epoch 213/300 | Total   0.8493 | CE   0.4288 | KL   0.5713
+Epoch 214/300 | Total   0.8516 | CE   0.4340 | KL   0.5650
+Epoch 215/300 | Total   0.8526 | CE   0.4402 | KL   0.5558
+Epoch 216/300 | Total   0.8538 | CE   0.4456 | KL   0.5479
+Epoch 217/300 | Total   0.8556 | CE   0.4508 | KL   0.5412
+Epoch 218/300 | Total   0.8570 | CE   0.4563 | KL   0.5336
+Epoch 219/300 | Total   0.8582 | CE   0.4630 | KL   0.5242
+Epoch 220/300 | Total   0.8597 | CE   0.4688 | KL   0.5164
+Epoch 221/300 | Total   0.8608 | CE   0.4764 | KL   0.5058
+Epoch 222/300 | Total   0.8616 | CE   0.4825 | KL   0.4969
+Epoch 223/300 | Total   0.8627 | CE   0.4896 | KL   0.4871
+Epoch 224/300 | Total   0.8646 | CE   0.4960 | KL   0.4793
+Epoch 225/300 | Total   0.8648 | CE   0.5033 | KL   0.4682
+Epoch 226/300 | Total   0.8667 | CE   0.5111 | KL   0.4588
+Epoch 227/300 | Total   0.8673 | CE   0.5185 | KL   0.4484
+Epoch 228/300 | Total   0.8693 | CE   0.5269 | KL   0.4385
+Epoch 229/300 | Total   0.8692 | CE   0.5346 | KL   0.4269
+Epoch 230/300 | Total   0.8708 | CE   0.5430 | KL   0.4166
+Epoch 231/300 | Total   0.8708 | CE   0.5513 | KL   0.4043
+Epoch 232/300 | Total   0.8721 | CE   0.5598 | KL   0.3939
+Epoch 233/300 | Total   0.8730 | CE   0.5707 | KL   0.3798
+Epoch 234/300 | Total   0.8728 | CE   0.5796 | KL   0.3669
+Epoch 235/300 | Total   0.8737 | CE   0.5883 | KL   0.3558
+Epoch 236/300 | Total   0.8742 | CE   0.5990 | KL   0.3419
+Epoch 237/300 | Total   0.8754 | CE   0.6101 | KL   0.3283
+Epoch 238/300 | Total   0.8761 | CE   0.6203 | KL   0.3154
+Epoch 239/300 | Total   0.8761 | CE   0.6315 | KL   0.3004
+Epoch 240/300 | Total   0.8764 | CE   0.6424 | KL   0.2865
+Epoch 241/300 | Total   0.8771 | CE   0.6540 | KL   0.2720
+Epoch 242/300 | Total   0.8773 | CE   0.6666 | KL   0.2561
+Epoch 243/300 | Total   0.8774 | CE   0.6787 | KL   0.2406
+Epoch 244/300 | Total   0.8778 | CE   0.6921 | KL   0.2239
+Epoch 245/300 | Total   0.8769 | CE   0.7040 | KL   0.2078
+Epoch 246/300 | Total   0.8779 | CE   0.7171 | KL   0.1926
+Epoch 247/300 | Total   0.8771 | CE   0.7295 | KL   0.1761
+Epoch 248/300 | Total   0.8768 | CE   0.7407 | KL   0.1618
+Epoch 249/300 | Total   0.8768 | CE   0.7522 | KL   0.1476
+Epoch 250/300 | Total   0.8761 | CE   0.7621 | KL   0.1346
+Epoch 251/300 | Total   0.8762 | CE   0.7729 | KL   0.1216
+Epoch 252/300 | Total   0.8757 | CE   0.7825 | KL   0.1093
+Epoch 253/300 | Total   0.8757 | CE   0.7916 | KL   0.0983
+Epoch 254/300 | Total   0.8753 | CE   0.7999 | KL   0.0879
+Epoch 255/300 | Total   0.8749 | CE   0.8070 | KL   0.0788
+Epoch 256/300 | Total   0.8741 | CE   0.8134 | KL   0.0702
+Epoch 257/300 | Total   0.8737 | CE   0.8187 | KL   0.0634
+Epoch 258/300 | Total   0.8734 | CE   0.8235 | KL   0.0573
+Epoch 259/300 | Total   0.8731 | CE   0.8279 | KL   0.0517
+Epoch 260/300 | Total   0.8723 | CE   0.8315 | KL   0.0465
+Epoch 261/300 | Total   0.8719 | CE   0.8348 | KL   0.0421
+Epoch 262/300 | Total   0.8715 | CE   0.8375 | KL   0.0386
+Epoch 263/300 | Total   0.8713 | CE   0.8400 | KL   0.0353
+Epoch 264/300 | Total   0.8709 | CE   0.8421 | KL   0.0323
+Epoch 265/300 | Total   0.8705 | CE   0.8442 | KL   0.0296
+Epoch 266/300 | Total   0.8704 | CE   0.8462 | KL   0.0271
+Epoch 267/300 | Total   0.8698 | CE   0.8474 | KL   0.0250
+Epoch 268/300 | Total   0.8698 | CE   0.8489 | KL   0.0232
+Epoch 269/300 | Total   0.8693 | CE   0.8499 | KL   0.0215
+Epoch 270/300 | Total   0.8690 | CE   0.8510 | KL   0.0199
+Epoch 271/300 | Total   0.8685 | CE   0.8516 | KL   0.0185
+Epoch 272/300 | Total   0.8681 | CE   0.8522 | KL   0.0175
+Epoch 273/300 | Total   0.8684 | CE   0.8534 | KL   0.0164
+Epoch 274/300 | Total   0.8677 | CE   0.8536 | KL   0.0154
+Epoch 275/300 | Total   0.8677 | CE   0.8543 | KL   0.0145
+Epoch 276/300 | Total   0.8678 | CE   0.8551 | KL   0.0137
+Epoch 277/300 | Total   0.8674 | CE   0.8554 | KL   0.0129
+Epoch 278/300 | Total   0.8671 | CE   0.8557 | KL   0.0123
+Epoch 279/300 | Total   0.8671 | CE   0.8562 | KL   0.0117
+Epoch 280/300 | Total   0.8667 | CE   0.8563 | KL   0.0111
+Epoch 281/300 | Total   0.8667 | CE   0.8567 | KL   0.0106
+Epoch 282/300 | Total   0.8664 | CE   0.8569 | KL   0.0101
+Epoch 283/300 | Total   0.8661 | CE   0.8569 | KL   0.0097
+Epoch 284/300 | Total   0.8661 | CE   0.8572 | KL   0.0093
+Epoch 285/300 | Total   0.8659 | CE   0.8574 | KL   0.0090
+Epoch 286/300 | Total   0.8658 | CE   0.8576 | KL   0.0087
+Epoch 287/300 | Total   0.8661 | CE   0.8580 | KL   0.0084
+Epoch 288/300 | Total   0.8660 | CE   0.8582 | KL   0.0080
+Epoch 289/300 | Total   0.8655 | CE   0.8580 | KL   0.0077
+Epoch 290/300 | Total   0.8657 | CE   0.8585 | KL   0.0075
+Epoch 291/300 | Total   0.8657 | CE   0.8586 | KL   0.0073
+Epoch 292/300 | Total   0.8655 | CE   0.8587 | KL   0.0070
+Epoch 293/300 | Total   0.8655 | CE   0.8589 | KL   0.0068
+Epoch 294/300 | Total   0.8651 | CE   0.8586 | KL   0.0066
+Epoch 295/300 | Total   0.8653 | CE   0.8590 | KL   0.0064
+Epoch 296/300 | Total   0.8651 | CE   0.8589 | KL   0.0062
+Epoch 297/300 | Total   0.8650 | CE   0.8590 | KL   0.0061
+Epoch 298/300 | Total   0.8649 | CE   0.8591 | KL   0.0059
+Epoch 299/300 | Total   0.8651 | CE   0.8593 | KL   0.0058
+Epoch 300/300 | Total   0.8650 | CE   0.8594 | KL   0.0056
+
+
+Example graph (conditioned on test entities):
+[('Budapest', 'could_be_part_of', 'Iceland'), ('English', 'spoken_in', 'Iceland'), ('Iceland', 'same_type_as', 'Greece'), ('Dublin', 'could_be_part_of', 'Iceland'), ('English', 'spoken_in', 'Iceland'), ('Dublin', 'same_type_as', 'Amsterdam'), ('Russian', 'spoken_in', 'Iceland'), ('Iceland', 'same_type_as', 'Ireland'), ('Budapest', 'could_be_part_of', 'Iceland'), ('Budapest', 'same_type_as', 'Dublin')]
+
+Semantic evaluation – graphs conditioned on test entities:
+Semantic Evaluation Results:
+Semantics: 100.0%
+Novel_semantics: 100.0%
+Novel: 100.0%
+Known: 0.0%
+Empty: 0.0%
+
+Graph Samples (Printing only 5 samples):
+
+Valid graphs:
+Count: 0
+Sample: []
+
+Valid novel graphs:
+Count: 9960
+Sample: [(('Lisbon', 'could_be_part_of', 'United Kingdom'), ('French', 'spoken_in', 'United Kingdom'), ('United Kingdom', 'same_type_as', 'Iceland'), ('London', 'could_be_part_of', 'United Kingdom'), ('French', 'spoken_in', 'United Kingdom'), ('London', 'same_type_as', 'Copenhagen'), ('Irish', 'spoken_in', 'Iceland'), ('Iceland', 'same_type_as', 'United Kingdom'), ('Copenhagen', 'could_be_part_of', 'Iceland'), ('Copenhagen', 'same_type_as', 'London')), (('Lisbon', 'could_be_part_of', 'Greece'), ('Dutch', 'spoken_in', 'Greece'), ('Greece', 'same_type_as', 'Serbia'), ('Copenhagen', 'could_be_part_of', 'Greece'), ('Dutch', 'spoken_in', 'Greece'), ('Copenhagen', 'same_type_as', 'Dublin'), ('Irish', 'spoken_in', 'Greece'), ('Greece', 'same_type_as', 'Serbia'), ('Lisbon', 'could_be_part_of', 'Greece'), ('Lisbon', 'same_type_as', 'Budapest')), (('Paris', 'could_be_part_of', 'Serbia'), ('Norwegian', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Greece'), ('Amsterdam', 'could_be_part_of', 'Serbia'), ('Norwegian', 'spoken_in', 'Serbia'), ('Amsterdam', 'same_type_as', 'Madrid'), ('English', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Ukraine'), ('Dublin', 'could_be_part_of', 'Serbia'), ('Dublin', 'same_type_as', 'Madrid')), (('Amsterdam', 'could_be_part_of', 'Serbia'), ('German', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Norway'), ('Paris', 'could_be_part_of', 'Serbia'), ('German', 'spoken_in', 'Serbia'), ('Paris', 'same_type_as', 'Bern'), ('German', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Ukraine'), ('Madrid', 'could_be_part_of', 'Serbia'), ('Madrid', 'same_type_as', 'Amsterdam')), (('Warsaw', 'could_be_part_of', 'Sweden'), ('English', 'spoken_in', 'Sweden'), ('Sweden', 'same_type_as', 'Spain'), ('Paris', 'could_be_part_of', 'Sweden'), ('English', 'spoken_in', 'Sweden'), ('Paris', 'same_type_as', 'Dublin'), ('French', 'spoken_in', 'Spain'), ('Spain', 'same_type_as', 'Sweden'), ('Warsaw', 'could_be_part_of', 'Spain'), ('Warsaw', 'same_type_as', 'Paris'))]
+
+Invalid graphs:
+Count: 0
+Sample: []
+
+Example graph (random latent):
+[('Madrid', 'could_be_part_of', 'Serbia'), ('Norwegian', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Norway'), ('Bern', 'could_be_part_of', 'Serbia'), ('Norwegian', 'spoken_in', 'Serbia'), ('Bern', 'same_type_as', 'Madrid'), ('Norwegian', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Switzerland'), ('Warsaw', 'could_be_part_of', 'Serbia'), ('Warsaw', 'same_type_as', 'Madrid')]
+
+Semantic evaluation – graphs from random latent:
+Semantic Evaluation Results:
+Semantics: 100.0%
+Novel_semantics: 100.0%
+Novel: 100.0%
+Known: 0.0%
+Empty: 0.0%
+
+Graph Samples (Printing only 5 samples):
+
+Valid graphs:
+Count: 0
+Sample: []
+
+Valid novel graphs:
+Count: 10000
+Sample: [(('Lisbon', 'could_be_part_of', 'Serbia'), ('German', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Norway'), ('Paris', 'could_be_part_of', 'Serbia'), ('German', 'spoken_in', 'Serbia'), ('Paris', 'same_type_as', 'Bern'), ('German', 'spoken_in', 'Serbia'), ('Serbia', 'same_type_as', 'Switzerland'), ('Lisbon', 'could_be_part_of', 'Serbia'), ('Lisbon', 'same_type_as', 'London')), (('Lisbon', 'could_be_part_of', 'Sweden'), ('Czech', 'spoken_in', 'Sweden'), ('Sweden', 'same_type_as', 'Ireland'), ('Amsterdam', 'could_be_part_of', 'Sweden'), ('Greek', 'spoken_in', 'Sweden'), ('Amsterdam', 'same_type_as', 'Copenhagen'), ('Czech', 'spoken_in', 'Sweden'), ('Sweden', 'same_type_as', 'Switzerland'), ('Copenhagen', 'could_be_part_of', 'Sweden'), ('Copenhagen', 'same_type_as', 'Budapest')), (('Madrid', 'could_be_part_of', 'Norway'), ('French', 'spoken_in', 'Norway'), ('Norway', 'same_type_as', 'United Kingdom'), ('Paris', 'could_be_part_of', 'Norway'), ('Norwegian', 'spoken_in', 'Norway'), ('Paris', 'same_type_as', 'Warsaw'), ('French', 'spoken_in', 'United Kingdom'), ('United Kingdom', 'same_type_as', 'Norway'), ('Warsaw', 'could_be_part_of', 'United Kingdom'), ('Warsaw', 'same_type_as', 'Madrid')), (('Amsterdam', 'could_be_part_of', 'Sweden'), ('English', 'spoken_in', 'Sweden'), ('Sweden', 'same_type_as', 'Ukraine'), ('Dublin', 'could_be_part_of', 'Sweden'), ('Italian', 'spoken_in', 'Sweden'), ('Dublin', 'same_type_as', 'Warsaw'), ('Italian', 'spoken_in', 'United Kingdom'), ('United Kingdom', 'same_type_as', 'Norway'), ('Amsterdam', 'could_be_part_of', 'United Kingdom'), ('Amsterdam', 'same_type_as', 'Madrid')), (('Copenhagen', 'could_be_part_of', 'Spain'), ('Irish', 'spoken_in', 'Spain'), ('Spain', 'same_type_as', 'Greece'), ('Amsterdam', 'could_be_part_of', 'Spain'), ('Dutch', 'spoken_in', 'Spain'), ('Amsterdam', 'same_type_as', 'Lisbon'), ('Irish', 'spoken_in', 'Switzerland'), ('Switzerland', 'same_type_as', 'Greece'), ('Lisbon', 'could_be_part_of', 'Switzerland'), ('Lisbon', 'same_type_as', 'London'))]
+
+Invalid graphs:
+Count: 0
+Sample: []
+
+
+=== Compression from Prior Latent z ~ N(0,I) (Decoded Graphs) ===
+Token 1 (id=24): bits = 3.050, entropy = 3.307
+Token 2 (id=35): bits = -0.000, entropy = 0.000
+Token 3 (id=32): bits = 3.012, entropy = 3.305
+Token 4 (id=19): bits = 2.840, entropy = 3.289
+Token 5 (id=34): bits = -0.000, entropy = 0.000
+Token 6 (id=32): bits = 0.000, entropy = 0.000
+Token 7 (id=32): bits = 0.000, entropy = 0.000
+Token 8 (id=33): bits = -0.000, entropy = 0.000
+Token 9 (id=21): bits = 2.714, entropy = 3.128
+Token 10 (id=16): bits = 2.705, entropy = 3.265
+Token 11 (id=35): bits = -0.000, entropy = 0.000
+Token 12 (id=32): bits = 0.000, entropy = 0.000
+Token 13 (id=14): bits = 2.803, entropy = 3.274
+Token 14 (id=34): bits = -0.000, entropy = 0.000
+Token 15 (id=32): bits = 0.000, entropy = 0.000
+Token 16 (id=16): bits = 0.000, entropy = 0.000
+Token 17 (id=33): bits = -0.000, entropy = 0.000
+Token 18 (id=24): bits = 2.778, entropy = 3.142
+Token 19 (id=10): bits = 2.869, entropy = 3.294
+Token 20 (id=34): bits = -0.000, entropy = 0.000
+Token 21 (id=32): bits = 2.488, entropy = 3.238
+Token 22 (id=32): bits = 0.000, entropy = 0.000
+Token 23 (id=33): bits = -0.000, entropy = 0.000
+Token 24 (id=13): bits = 2.663, entropy = 3.141
+Token 25 (id=28): bits = 2.716, entropy = 3.258
+Token 26 (id=35): bits = -0.000, entropy = 0.000
+Token 27 (id=32): bits = 0.000, entropy = 0.000
+Token 28 (id=28): bits = 0.000, entropy = 0.000
+Token 29 (id=33): bits = -0.000, entropy = 0.000
+Token 30 (id=26): bits = 2.514, entropy = 3.048
+Token 31 (id=2): bits = -0.000, entropy = 0.000
+
+
+=== Local Latent Neighborhood Exploration ===
+
+--- Reference Graph (z₀) ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Amsterdam)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, London)
+
+--- Perturbed z #1 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Lisbon)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Serbia)
+(Copenhagen, could_be_part_of, Ireland)
+(Copenhagen, same_type_as, Warsaw)
+# Overlapping triples with z₀: 5 / 10
+
+--- Perturbed z #2 ---
+(Lisbon, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Amsterdam, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Amsterdam, same_type_as, Warsaw)
+(German, spoken_in, Norway)
+(Norway, same_type_as, Switzerland)
+(Copenhagen, could_be_part_of, Norway)
+(Copenhagen, same_type_as, Lisbon)
+# Overlapping triples with z₀: 3 / 10
+
+--- Perturbed z #3 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Amsterdam, same_type_as, Lisbon)
+(Norwegian, spoken_in, Norway)
+(Norway, same_type_as, Serbia)
+(Budapest, could_be_part_of, Norway)
+(Budapest, same_type_as, Lisbon)
+# Overlapping triples with z₀: 2 / 10
+
+--- Perturbed z #4 ---
+(Amsterdam, could_be_part_of, Serbia)
+(Dutch, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(Copenhagen, could_be_part_of, Serbia)
+(German, spoken_in, Serbia)
+(Copenhagen, same_type_as, Madrid)
+(German, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(Budapest, could_be_part_of, Serbia)
+(Budapest, same_type_as, Copenhagen)
+# Overlapping triples with z₀: 0 / 10
+
+--- Perturbed z #5 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Amsterdam, could_be_part_of, Ireland)
+(English, spoken_in, Ireland)
+(Amsterdam, same_type_as, Lisbon)
+(German, spoken_in, Iceland)
+(Iceland, same_type_as, Ireland)
+(Budapest, could_be_part_of, Iceland)
+(Budapest, same_type_as, Lisbon)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #6 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Amsterdam, same_type_as, Warsaw)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, London)
+# Overlapping triples with z₀: 6 / 10
+
+--- Perturbed z #7 ---
+(Lisbon, could_be_part_of, Ireland)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Lisbon, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Lisbon, same_type_as, Amsterdam)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Amsterdam, could_be_part_of, Ireland)
+(Amsterdam, same_type_as, Paris)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #8 ---
+(Amsterdam, could_be_part_of, Serbia)
+(Dutch, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(Copenhagen, could_be_part_of, Serbia)
+(German, spoken_in, Serbia)
+(Copenhagen, same_type_as, Madrid)
+(German, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(Budapest, could_be_part_of, Serbia)
+(Budapest, same_type_as, Copenhagen)
+# Overlapping triples with z₀: 0 / 10
+
+--- Perturbed z #9 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Amsterdam, could_be_part_of, Ireland)
+(English, spoken_in, Ireland)
+(Amsterdam, same_type_as, Lisbon)
+(German, spoken_in, Iceland)
+(Iceland, same_type_as, Ireland)
+(Budapest, could_be_part_of, Iceland)
+(Budapest, same_type_as, Lisbon)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #10 ---
+(Lisbon, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Lisbon, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Lisbon, same_type_as, Amsterdam)
+(Dutch, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Amsterdam, could_be_part_of, Ireland)
+(Amsterdam, same_type_as, Dublin)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #11 ---
+(Lisbon, could_be_part_of, Serbia)
+(German, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(Copenhagen, could_be_part_of, Serbia)
+(German, spoken_in, Serbia)
+(Copenhagen, same_type_as, Warsaw)
+(German, spoken_in, Serbia)
+(Serbia, same_type_as, Ireland)
+(London, could_be_part_of, Serbia)
+(London, same_type_as, Warsaw)
+# Overlapping triples with z₀: 0 / 10
+
+--- Perturbed z #12 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Amsterdam)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, London)
+# Overlapping triples with z₀: 10 / 10
+
+--- Perturbed z #13 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Copenhagen)
+(German, spoken_in, Norway)
+(Norway, same_type_as, Ireland)
+(Budapest, could_be_part_of, Norway)
+(Budapest, same_type_as, Lisbon)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #14 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Amsterdam)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, London)
+# Overlapping triples with z₀: 10 / 10
+
+--- Perturbed z #15 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Lisbon)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Serbia)
+(Copenhagen, could_be_part_of, Ireland)
+(Copenhagen, same_type_as, Warsaw)
+# Overlapping triples with z₀: 5 / 10
+
+--- Perturbed z #16 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Amsterdam)
+(English, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, Lisbon)
+# Overlapping triples with z₀: 9 / 10
+
+--- Perturbed z #17 ---
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Copenhagen)
+(German, spoken_in, Norway)
+(Norway, same_type_as, Ireland)
+(Lisbon, could_be_part_of, Norway)
+(Lisbon, same_type_as, Amsterdam)
+# Overlapping triples with z₀: 4 / 10
+
+--- Perturbed z #18 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Iceland)
+(Amsterdam, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Amsterdam, same_type_as, Warsaw)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Dublin, could_be_part_of, Ireland)
+(Dublin, same_type_as, London)
+# Overlapping triples with z₀: 6 / 10
+
+--- Perturbed z #19 ---
+(Lisbon, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Paris, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Paris, same_type_as, Warsaw)
+(German, spoken_in, Norway)
+(Norway, same_type_as, Switzerland)
+(Lisbon, could_be_part_of, Norway)
+(Lisbon, same_type_as, Dublin)
+# Overlapping triples with z₀: 3 / 10
+
+--- Perturbed z #20 ---
+(Copenhagen, could_be_part_of, Ireland)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Norway)
+(Amsterdam, could_be_part_of, Ireland)
+(Dutch, spoken_in, Ireland)
+(Amsterdam, same_type_as, Warsaw)
+(German, spoken_in, Ireland)
+(Ireland, same_type_as, Switzerland)
+(Copenhagen, could_be_part_of, Ireland)
+(Copenhagen, same_type_as, Lisbon)
+# Overlapping triples with z₀: 4 / 10
+
+[Graph Diversity from 10000 Random Latents]
+  Unique graphs generated: 9823
+  Diversity ratio: 0.982
+
+Posterior bits-per-graph (reconstruction, 1 % test)
+  avg total :  39.66 bits
+  avg AR    :  39.46
+  avg KL    :   0.20
+  min / max : 35.26 / 44.43
+
+fineshed running
+
+JOB STATISTICS
+==============
+Job ID: 12942086
+Cluster: snellius
+User/Group: avozikis/avozikis
+State: RUNNING
+Nodes: 1
+Cores per node: 18
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 1-14:51:54 core-walltime
+Job Wall-clock time: 02:09:33
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 64.00 GB (64.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.
