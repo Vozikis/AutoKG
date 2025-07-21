@@ -154,7 +154,7 @@ AutoKG maximizes the **Evidence Lower Bound (ELBO)**.
 Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-the-art validity and novelty, with near-perfect scores on all datasets. Unlike baselines, AutoKG retains diversity across samples and scales well to complex real-world graphs like wd-articles. Compression analysis confirms that AutoKG learns highly efficient latent representations, outperforming both VAEs and latent diffusion models.
 
 
-### 1. Compession evaluation and validity and novelty for sampled from the latent space and conditioned on the test set graphs 
+### 1. Compression cost for different models and datasets. Bolded entries highlight the performance of the best model
 
 
 <img src="figures/compression.png" alt="Compression cost for different models and datasets. Bolded entries highlight the performance of the best model" width="780"/>  
@@ -169,7 +169,7 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 
 
 
-
+### 2. Sampling $P(E)$ and $P(S \mid E)$ across datasets and models. Bolded entries highlight the performance of the best model.
 <img src="figures/results_latent.png" alt="Sampling $P(E)$ and $P(S \mid E)$ across datasets and models. Bolded entries highlight the performance of the best model." width="780"/>  
 
 
@@ -182,11 +182,11 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 
 
 
-
+### 3. Sampling $P(S \mid E)$ only across datasets and models. Bolded entries highlight the performance of the best model.
 <img src="figures/results_test.png" alt="Sampling $P(S \mid E)$ only across datasets and models. Bolded entries highlight the performance of the best model." width="780"/>  
 
 
-### 2. Fine‑grained constraint satisfaction
+### 4. Fine‑grained constraint satisfaction
 
 | Metric | Step‑by‑step behaviour |
 |--------|-----------------------|
@@ -195,7 +195,7 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 
 → Diversity decreases as conditioning increases (expected).
 
-### 3. Compression–Validity trade‑off (synthetic datasets)
+### 5. Compression–Validity trade‑off (synthetic datasets)
 
 | **SYN‑PATHS** | **SYN‑TIPR** | **SYN‑TYPES** |
 |---------------|--------------|---------------|
@@ -205,7 +205,7 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 * KL → 0 at small latent sizes ⇒ information flows through **discrete autoregression** alone.  
 * Novelty and validity degrade with wider latents.  
 
-### 4. Diversity ratio
+### 6. Graph Diversity of AutoKG Model (10,000 Random Latent Samples)
 <img src="figures/diversity.png" alt="Graph Diversity of AutoKG Model (10,000 Random Latent Samples)" width="580"/>  
 
 
