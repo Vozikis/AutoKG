@@ -45,7 +45,7 @@ The **VAE** consists of three components—an **encoder**, a **decoder**, and a 
 <img src="figures/vae.png" alt="VAE High‑level Architecture" width="780"/>
 
 In contrast, the **LDM** follows the same encoder–decoder–structural decoder architecture but introduces a **diffusion module** that gradually adds and removes noise in the latent space. The denoising process enables the model to learn a distribution over structured latent representations.
-<img src="figures/ldf.png" alt="LDM High‑level Architecture" width="780"/>
+<img src="figures/ldm.png" alt="LDM High‑level Architecture" width="780"/>
 
 Both VAE and LDM demonstrate the benefits of latent modeling but generate entire graphs in a single step, limiting their ability to capture sequential dependencies.
 
