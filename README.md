@@ -72,7 +72,6 @@ The repository contains scripts for training and evaluating models on five Intel
 │   ├── autoreg_tipr.py         # AutoKG on SYN‑TIPR
 │   ├── autoreg_movies.py       # AutoKG on WD‑MOVIES
 │   └── autoreg_articles.py     # AutoKG on WD‑ARTICLES  
-├── checkpoints
 ├── figures
 └── …
 ```
@@ -97,7 +96,7 @@ python src/autoreg_articles.py     # WD‑ARTICLES
 ```
 
 Each script  
-*loads* the dataset, performs training, and stores checkpoints in `checkpoints/`.
+*loads* the dataset, performs training, generates graphs and evaluates them.
 
 ---
 
