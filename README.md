@@ -4,7 +4,7 @@
 
 <img src="figures/autoreg.png" alt="AutoKG High‑level Architecture" width="1080"/>
 
-AutoKG is a **variational‑autoregressive model** for **multi‑relational knowledge‑graph (KG) generation**.  
+AutoKG is a **variational‑autoregressive model** for **multirelational Knowledge Graph (KG) generation**.  
 On the **IntelliGraphs** benchmark it surpasses classical and modern baselines (TransE, ComplEx, VAE, LDM) on:
 
 * **Validity**
