@@ -34,7 +34,7 @@ We also experimented with
 Generative models have achieved remarkable results in domains like image, text, and video synthesis. However, they continue to struggle with generating coherent symbolic structures such as knowledge graphs (KGs). AutoKG addresses this gap through a novel variational-autoregressive architecture designed to model the full joint distribution over triples. It transforms knowledge graphs into token sequences, enabling latent compression and autoregressive decoding to generate structurally valid, novel, and diverse multirelational graphs. 
 
 In our evaluation, we compared AutoKG against a range of classical and modern generative baselines. 
-### 🔬 Baseline Models
+### Baseline Models
 
 As baseline, apart from the models already available from the IntelliGraphs benchmark (**TransE**, **ComplEx**, and **Random**), we also implement a **Variational Autoencoder (VAE)** and a **Latent Diffusion Model (LDM)**.
 
@@ -48,6 +48,7 @@ The **VAE** consists of three components—an **encoder**, a **decoder**, and a 
 <img src="figures/vae.png" alt="VAE High‑level Architecture" width="780"/>
 
 In contrast, the **LDM** follows the same encoder–decoder–structural decoder architecture but introduces a **diffusion module** that gradually adds and removes noise in the latent space. The denoising process enables the model to learn a distribution over structured latent representations.
+
 <img src="figures/ldm.png" alt="LDM High‑level Architecture" width="780"/>
 
 Both VAE and LDM demonstrate the benefits of latent modeling but generate entire graphs in a single step, limiting their ability to capture sequential dependencies.
