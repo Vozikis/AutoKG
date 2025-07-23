@@ -119,6 +119,8 @@ AutoKG is the first architecture to combine variational inference with autoregre
 **AutoKG** is a **variational-autoregressive model** for structured **knowledge graph (KG) generation**.  
 It learns to model the **joint probability** over full graphs—not isolated triples—by transforming each graph into a token sequence and decoding it **autoregressively**, conditioned on a **latent vector** `z`.
 
+###  AutoKG step by step autoregressive generation
+
 <img src="figures/autoreg_gen.png" alt="AutoKG generation in an autoregressive manner" width="720"/>
 
 ---
