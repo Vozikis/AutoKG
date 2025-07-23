@@ -210,7 +210,7 @@ Our evaluation spans five datasets from IntelliGraphs. AutoKG achieves state-of-
 | <img src="figures/syn-path-compression.png" alt="Compression SYN‑PATHS" width="330"/> | <img src="figures/syn-tipr-compression.png" alt="Compression SYN‑TIPR" width="330"/> | <img src="figures/syn-types-compression.png" alt="Compression SYN‑TYPES" width="330"/> |
 | <img src="figures/syn-path-valid.png"   alt="Validity SYN‑PATHS"  width="330"/> | <img src="figures/syn-typr-valid.png"   alt="Validity SYN‑TIPR"  width="330"/> | <img src="figures/syn-types-valid.png"  alt="Validity SYN‑TYPES" width="330"/> |
 
-* KL → 0 at small latent sizes ⇒ information flows through **discrete autoregression** alone.  
+* KL → 0 at small latent sizes ⇒ leads to non valid graph generation.  
 * Novelty and validity degrade with wider latents.  
 
 ### 6. Graph Diversity of AutoKG Model (10,000 Random Latent Samples)
